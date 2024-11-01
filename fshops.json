@@ -17,8 +17,8 @@
         "freeShopCondMessage": "",
         "hideWarningMessageCondId": 0,
         "freeShopReleaseDate": 0,
-        "id": 14340,
-        "baseShopId": 14340,
+        "id": 14352,
+        "baseShopId": 14352,
         "eventId": 0,
         "slot": 0,
         "flag": 4096,
@@ -36,47 +36,7 @@
         "warningMessage": "",
         "imageId": 0,
         "bgImageId": 0,
-        "openedAt": 1727708400,
-        "closedAt": 1730386799
-    },
-    {
-        "itemIds": [
-            0
-        ],
-        "prices": [
-            20
-        ],
-        "targetIds": [
-            4001
-        ],
-        "script": {},
-        "anotherPayType": 0,
-        "anotherItemIds": [],
-        "useAnotherPayCommonReleaseId": 0,
-        "freeShopCondId": 0,
-        "freeShopCondMessage": "",
-        "hideWarningMessageCondId": 0,
-        "freeShopReleaseDate": 0,
-        "id": 14344,
-        "baseShopId": 14344,
-        "eventId": 0,
-        "slot": 0,
-        "flag": 2048,
-        "priority": 87,
-        "purchaseType": 1,
-        "setNum": 1,
-        "payType": 4,
-        "shopType": 2,
-        "limitNum": 15,
-        "defaultLv": 0,
-        "defaultLimitCount": 0,
-        "name": "【期間限定3000万DL記念】呼符",
-        "detail": "【3000万DL記念】\n聖晶石召喚1回可能な呼符1枚へ交換",
-        "infoMessage": "",
-        "warningMessage": "",
-        "imageId": 80637,
-        "bgImageId": 0,
-        "openedAt": 1728039600,
-        "closedAt": 1730433599
+        "openedAt": 1730386800,
+        "closedAt": 1732978799
     }
 ]
