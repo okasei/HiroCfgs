@@ -38,45 +38,5 @@
         "bgImageId": 0,
         "openedAt": 1743433200,
         "closedAt": 1746025199
-    },
-    {
-        "itemIds": [
-            0
-        ],
-        "prices": [
-            20
-        ],
-        "targetIds": [
-            4001
-        ],
-        "script": {},
-        "anotherPayType": 0,
-        "anotherItemIds": [],
-        "useAnotherPayCommonReleaseId": 0,
-        "freeShopCondId": 0,
-        "freeShopCondMessage": "",
-        "hideWarningMessageCondId": 0,
-        "freeShopReleaseDate": 0,
-        "id": 14396,
-        "baseShopId": 14396,
-        "eventId": 0,
-        "slot": 0,
-        "flag": 2048,
-        "priority": 41,
-        "purchaseType": 1,
-        "setNum": 1,
-        "payType": 4,
-        "shopType": 2,
-        "limitNum": 5,
-        "defaultLv": 0,
-        "defaultLimitCount": 0,
-        "name": "【期間限定】呼符",
-        "detail": "【3100万DL突破記念】\n聖晶石召喚1回可能な呼符1枚へ交換",
-        "infoMessage": "",
-        "warningMessage": "",
-        "imageId": 80713,
-        "bgImageId": 0,
-        "openedAt": 1744189200,
-        "closedAt": 1745985599
     }
 ]
