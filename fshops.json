@@ -17,8 +17,8 @@
         "freeShopCondMessage": "",
         "hideWarningMessageCondId": 0,
         "freeShopReleaseDate": 0,
-        "id": 14409,
-        "baseShopId": 14409,
+        "id": 14412,
+        "baseShopId": 14412,
         "eventId": 0,
         "slot": 0,
         "flag": 4096,
@@ -36,7 +36,7 @@
         "warningMessage": "",
         "imageId": 0,
         "bgImageId": 0,
-        "openedAt": 1751295600,
-        "closedAt": 1753973999
+        "openedAt": 1753974000,
+        "closedAt": 1756652399
     }
 ]
