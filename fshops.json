@@ -17,8 +17,8 @@
         "freeShopCondMessage": "",
         "hideWarningMessageCondId": 0,
         "freeShopReleaseDate": 0,
-        "id": 14465,
-        "baseShopId": 14465,
+        "id": 14469,
+        "baseShopId": 14469,
         "eventId": 0,
         "slot": 0,
         "flag": 4096,
@@ -36,7 +36,47 @@
         "warningMessage": "",
         "imageId": 0,
         "bgImageId": 0,
-        "openedAt": 1764514800,
-        "closedAt": 1767193199
+        "openedAt": 1767193200,
+        "closedAt": 1769871599
+    },
+    {
+        "itemIds": [
+            0
+        ],
+        "prices": [
+            10
+        ],
+        "targetIds": [
+            4001
+        ],
+        "script": {},
+        "anotherPayType": 0,
+        "anotherItemIds": [],
+        "useAnotherPayCommonReleaseId": 0,
+        "freeShopCondId": 0,
+        "freeShopCondMessage": "",
+        "hideWarningMessageCondId": 0,
+        "freeShopReleaseDate": 0,
+        "id": 14474,
+        "baseShopId": 14474,
+        "eventId": 0,
+        "slot": 0,
+        "flag": 2048,
+        "priority": 46,
+        "purchaseType": 1,
+        "setNum": 1,
+        "payType": 4,
+        "shopType": 2,
+        "limitNum": 10,
+        "defaultLv": 0,
+        "defaultLimitCount": 0,
+        "name": "【2026年お正月限定】呼符",
+        "detail": "【2026年お正月限定】\n聖晶石召喚1回可能な呼符1枚へ交換",
+        "infoMessage": "",
+        "warningMessage": "",
+        "imageId": 80806,
+        "bgImageId": 0,
+        "openedAt": 1767193200,
+        "closedAt": 1768363199
     }
 ]
